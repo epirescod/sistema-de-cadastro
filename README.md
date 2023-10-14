@@ -1,2 +1,9 @@
-# sistema-de-cadastro
-Projeto de sistema de cadastro de jogos
+# Sistema de cadastro de jogos 
+
+> Status do Projeto: Em desenvolvimento
+
+PAra rodar esse projeto na sua máquina, por favor digite:
+
+```
+node app.js
+```
